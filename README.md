@@ -1,4 +1,4 @@
-![](\pics/UEMK%20'%202024.png)
+![1](/pics/banner.png)
 
 <h3 align="center">
   Welcome to Tamal's profile!
