@@ -128,7 +128,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=nightowl)](https://git.io/streak-stats) -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
-<p  align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=nightowl" alt="jyotirmoyroy" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IAmTamal&theme=dracula&" alt="jyotirmoyroy" /></p>
 <p  align="center" ><img src="https://github-readme-stats.vercel.app/api?username=IAmTamal&theme=dracula&show_icons=true&count_private=true&locale=en" alt="jyotirmoyroy" /></p>
 
 ---
