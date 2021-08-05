@@ -123,7 +123,7 @@ p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
 
 
 
-<h2 align="center"> 💻 My Github stats 💻 </h2>    
+<h2 align="center"> 💻 My Github Stats 💻 </h2>    
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=nightowl)](https://git.io/streak-stats) -->
