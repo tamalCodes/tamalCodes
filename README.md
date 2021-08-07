@@ -28,7 +28,7 @@
 
 <h2 align="center">🏆 Github Profile Trophy</h2>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IAmTamal&theme=onedark" alt="jyotirmoyroy" /></a> </p>
+ <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IAmTamal&theme=onedark" alt="jyotirmoyroy" /></a></p>
 
 ---
 
