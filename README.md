@@ -126,7 +126,7 @@
 <h2 align="center"> 💻 My Github stats 💻 </h2>    
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=gruvbox_duo" alt="jyotirmoyroy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=onedark_duo" alt="tamaldas" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IAmTamal&theme=dracula&show_icons=true&count_private=true&locale=en" alt="jyotirmoyroy" /></p>
 
