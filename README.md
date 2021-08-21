@@ -132,7 +132,7 @@
 
 ---
 
-<h2 align="center"> 🌐 Connect with me </h2>
+<h2 align="center"> 🌐 Connect with Me </h2>
 
 <!-- <a href="" target="blank"><img align="center" src="/pics/facebook.png" alt="jyotirmoyroy" height="40" width="40" /></a>
 <a href="" target="blank"><img align="center" src="/pics/instagram.png" alt="jyotirmoyroy" height="40" width="40" /></a>
