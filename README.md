@@ -123,7 +123,7 @@
 
 
 
-<h2 align="center"> 💻 My Github stats 💻 </h2>    
+<h2 align="center"> 💻 My Github Stats 💻 </h2>    
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=onedark_duo" alt="tamaldas" /></p>
