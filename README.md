@@ -1,47 +1,36 @@
-![1](/pics/banner.png)
+# <strong> Hey 👋, I'm Tamal! </strong>
 
-<h3 align="center">
-  Welcome to Tamal's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=2D63F7&size=24&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Intrested+in+android%2C+web..;Be+Consistent.+Have+a+good+day+!!"></a>
-</p>
+<br> <br>
 
-#### I'm 2nd year student, pursuing Btech in Computer Science and Engineering. I love to code, i believe coding is today's language of creativity.
+I am a sophomore pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and 📱 flutter apps and also design user experiences 🎨. I have a soft spot for technology and communities, Software Development, Developer Relations, UI/UX Design, and Product Management 💖! You can find my resume in my <a href='https://iamtamal.github.io/My-Resume/'> Portfolio.</a>
+I'm working on web development projects on GitHub for everybody to use which you can find here! Nowadays, I’m learning ReactJS. I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions!
+<br/>
+<br/>
 
-<p align="center" >- 🌱 I’m currently learning <strong>Data structures and algorithm </strong> </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+  
+## 🧐 <strong> More about me: </strong>
 
-<p align="center">- 👯 I’m looking to collaborate on <strong>full stack projects </strong></p>
+<p >- 🌱 I’m currently learning Data structures and algorithm </p>
 
-<p align="center">- 💬 Ask me about <strong> DSA, JS, React, Node, C & C++ </strong></p>
+<p>- 👯 I’m looking to collaborate on full stack projects </p>
 
-<p align="center">- ⚡ Fun fact :  I watch animes and stalk Linkedin whenever free</p>
+<p>- 💬 Ask me about DSA, JS, Node, C & C++</p>
 
-<p align="center">- 💝 I have a soft spot for  <strong> technology and communities, Software Development, Developer Relations, UI/UX Design </strong> </p>
+<p>- ⚡ Fun fact :  I watch animes and stalk Linkedin whenever free</p>
 
+<p>- 💝 Feel free to reach me out !! </strong> </p>
 
+<br> <br>
 
-
----
-
-<h2 align="center">🏆 Github Profile Trophy</h2>
-
- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IAmTamal&theme=onedark" alt="jyotirmoyroy" /></a></p>
-
----
-
-
-<!-- Tools -->
-
-<h2 align="center">🛠️ My favorite tools 🛠️</h2>
-
-### 👨‍💻 Programming languages
+### 👨‍💻 <strong> Programming languages </strong>
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aassembly"><img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
@@ -57,31 +46,26 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 </p>
+<br>
 
-### 🧰 Frameworks and libraries
+### 🧰 <strong> Frameworks and libraries </strong>
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%23366488.svg?logo=jekyll&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-</p>
+</p> <br>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ <strong> Databases and cloud hosting </strong>
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -89,71 +73,49 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-</p>
+</p> <br>
 
-### 💻 Software and tools
+### 💻 <strong> Software and tools </strong>
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+<br> <br>
 
-
-<h2 align="center"> 💻 My Github Stats 💻 </h2>    
+## 📊 <strong> My Github Stats 🚀 </strong>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=onedark_duo" alt="tamaldas" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IAmTamal&theme=dracula&show_icons=true&count_private=true&locale=en" alt="jyotirmoyroy" /></p>
 
----
+<br>
 
-<h2 align="center"> 🌐 Connect with Me </h2>
-
-<!-- <a href="" target="blank"><img align="center" src="/pics/facebook.png" alt="jyotirmoyroy" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="/pics/instagram.png" alt="jyotirmoyroy" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="/pics/linkedin.png" alt="jyotirmoyroy" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="/pics/web-programming.png" alt="jyotirmoyroy" height="40" width="40" /></a>
-
-
-<p float="left" align="center">
-  <img align="center" src="/pics/facebook.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" />
-  <img align="center" src="/pics/instagram.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" />
-  <img align="center" src="/pics/linkedin.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" />
-  <img align="center" src="/pics/web-programming.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" /> -->
-</p>
-
-
-<p float="left" align="center">
-  <a href="https://www.facebook.com/profile.php?id=100018596350528" target="blank"> <img align="center" src="/pics/facebook.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" /></a>
-<a href="https://www.instagram.com/tamal_pvt/" target="blank"> <img align="center" src="/pics/instagram.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" />
-</a>
-<a href="https://www.linkedin.com/in/say-hello-to-tamal" target="blank"> <img align="center" src="/pics/linkedin.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" />
-</a>
-<a href="https://www.hackerrank.com/gyansujan69" target="blank"> <img align="center" src="/pics/web-programming.png" alt="jyotirmoyroy" height="40" width="40" style = "padding-right: 10px" />
-</a>
-</p>
+[website]: https://linktr.ee/Itsmetamal
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/TamalDa97718338
+[youtube]: https://youtube.com/codeSTACKr
+[facebook]: https://www.facebook.com/profile.php?id=100018596350528&ltclid=b0c7fa46-aa22-4496-afd7-f90481a6a9df
+[instagram]: https://www.instagram.com/tamal_pvt/?ltclid=f9942f21-6f82-4b52-a7db-516a221d461c
+[linkedin]: https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
