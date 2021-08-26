@@ -16,7 +16,7 @@ I'm working on web development projects on GitHub for everybody to use which you
   
 ## 🧐 <strong> More about me: </strong>
 
-<p >- 🌱 I’m currently learning Data structures and algorithm </p>
+<p >- 🌱 I am currently learning Data structures and algorithm </p>
 
 <p>- 👯 I’m looking to collaborate on full stack projects </p>
 
