@@ -1,9 +1,20 @@
 # <strong> Hey 👋, I'm Tamal! </strong>
 
-[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img  style="padding-right:10px;" align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d">
+  <img style="padding-right:10px;" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" />
+</a>
+
+<a href=" https://www.instagram.com/tamal_pvt/?ltclid=f9942f21-6f82-4b52-a7db-516a221d461c">
+  <img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="pics/iconfinder_instagram_1632517.png" />
+</a>
+
+<a href=" https://www.facebook.com/profile.php?id=100018596350528&ltclid=b0c7fa46-aa22-4496-afd7-f90481a6a9df">
+  <img style="padding-right:10px;" align="left" alt="db's Facebook" width="24px" src="pics/iconfinder_social-facebook-2019-circle_4696483.png" />
+</a>
+
+<a href="https://twitter.com/TamalDa97718338  ">
+  <img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="pics/iconfinder_twitter_circle_294709.png" />
+</a>
 
 <br> <br>
 
@@ -110,10 +121,6 @@ I'm working on web development projects on GitHub for everybody to use which you
 
 [website]: https://linktr.ee/Itsmetamal
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/TamalDa97718338
-[youtube]: https://youtube.com/codeSTACKr
-[facebook]: https://www.facebook.com/profile.php?id=100018596350528&ltclid=b0c7fa46-aa22-4496-afd7-f90481a6a9df
-[instagram]: https://www.instagram.com/tamal_pvt/?ltclid=f9942f21-6f82-4b52-a7db-516a221d461c
 [linkedin]: https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
