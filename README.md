@@ -35,7 +35,7 @@ I'm working on web development projects on GitHub for everybody to use which you
 
 <p>- ⚡ Fun fact :  I watch animes and stalk Linkedin whenever free</p>
 
-<p>- 💝 Feel free to reach me out !! </strong> </p>
+<p>- 💝 Feel free to reach  out !! </strong> </p>
 
 <br> <br>
 
