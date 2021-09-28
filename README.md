@@ -18,7 +18,7 @@
 
 <br> <br>
 
-I am a sophomore pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. I have a soft spot for technology and communities, Software Development, Developer Relations, UI/UX Design, and Product Management 💖! You can find my resume in my <a href='https://iamtamal.github.io/My-Resume/'> Portfolio.</a>
+I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. I have a soft spot for technology and communities, Software Development, Developer Relations, UI/UX Design, and Product Management 💖! You can find my resume in my <a href='https://iamtamal.github.io/My-Resume/'> Portfolio.</a>
 I'm working on web development projects on GitHub for everybody to use which you can find here! Nowadays, I’m learning ReactJS. I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions!
 <br/>
 <br/>
