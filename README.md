@@ -110,7 +110,7 @@ I'm working on web development projects on GitHub for everybody to use which you
 
 <br> <br>
 
-## 📊 <strong> My Github stats 🚀 </strong>
+## 📊 <strong> My Github Stats 🚀 </strong>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
