@@ -115,8 +115,6 @@ I'm working on web development projects on GitHub for everybody to use which you
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IAmTamal&theme=dracula&show_icons=true&count_private=true&locale=en" alt="jyotirmoyroy" /></p>
-
 <br>
 
 [website]: https://linktr.ee/Itsmetamal
