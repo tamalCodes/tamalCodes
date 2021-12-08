@@ -18,8 +18,8 @@
 
 <br> <br>
 
-I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. I have a soft spot for technology and communities, Software Development, Developer Relations, UI/UX Design, and Product Management 💖! You can find my resume in my <a href='https://iamtamal.github.io/My-Resume/'> Portfolio.</a>
-I'm working on web development projects on GitHub for everybody to use which you can find here! Nowadays, I’m learning ReactJS. I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions!
+I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume in my <a href='https://iamtamal.github.io/My-Resume/'> Portfolio.</a>
+I'm working on web development projects on GitHub for everybody to use which you can find here! 
 <br/>
 <br/>
 
@@ -38,6 +38,21 @@ I'm working on web development projects on GitHub for everybody to use which you
 <p>- 💝 Feel free to reach  out !! </strong> </p>
 
 <br> <br>
+
+## 📊 <strong> My Github Stats 🚀 </strong>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
+
+<br>
+
+[website]: https://linktr.ee/Itsmetamal
+[course]: http://vsCodeHero.com
+[linkedin]: https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 ## 👨‍💻 <strong> Technologies I use: </strong>
 
@@ -67,18 +82,3 @@ I'm working on web development projects on GitHub for everybody to use which you
 </p>
 
 <br> <br>
-
-## 📊 <strong> My Github Stats 🚀 </strong>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
-
-<br>
-
-[website]: https://linktr.ee/Itsmetamal
-[course]: http://vsCodeHero.com
-[linkedin]: https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
