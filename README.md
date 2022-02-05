@@ -18,8 +18,7 @@
 
 <br> <br>
 
-I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume in my <a href='https://iamtamal.github.io/My-Resume/'> Portfolio.</a>
-I'm working on web development projects on GitHub for everybody to use which you can find here! 
+I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.vercel.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.
 <br/>
 <br/>
 
@@ -82,3 +81,12 @@ I'm working on web development projects on GitHub for everybody to use which you
 </p>
 
 <br> <br>
+
+## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Software Engineer Intern | [Innception](https://www.redhat.com/en) | Jan 2022 - Present |
+| Open source mentor | [JWOC](https://www.redhat.com/en) | Jan 2022 - Present |
+| Open source mentor | [Diversion](https://www.redhat.com/en) | Jan 2022 - Present |
+| Fullstack Developer | [ACM-UEM](https://www.redhat.com/en) | November 2021 - Present |
