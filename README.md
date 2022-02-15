@@ -18,7 +18,7 @@
 
 <br> <br>
 
-I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.vercel.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.
+I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.netlify.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.
 <br/>
 <br/>
 
