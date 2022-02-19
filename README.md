@@ -40,7 +40,7 @@ I am a sophomore, pursuing Btech in Computer science and engineering. I make ele
 
 ## 📊 <strong> My Github Stats 🚀 </strong>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IAmTamal&color=green&color=green" alt="tamaldas" /> </p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
 
 <br>
