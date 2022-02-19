@@ -4,15 +4,15 @@
   <img style="padding-right:10px;" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" />
 </a>
 
-<a href=" https://www.instagram.com/tamal_pvt/?ltclid=f9942f21-6f82-4b52-a7db-516a221d461c">
+<a href=" https://www.instagram.com/__.tamal._/">
   <img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="pics/iconfinder_instagram_1632517.png" />
 </a>
 
-<a href=" https://www.facebook.com/profile.php?id=100018596350528&ltclid=b0c7fa46-aa22-4496-afd7-f90481a6a9df">
+<a href=" https://www.facebook.com/people/Tamal-Das/100018596350528/">
   <img style="padding-right:10px;" align="left" alt="db's Facebook" width="24px" src="pics/iconfinder_social-facebook-2019-circle_4696483.png" />
 </a>
 
-<a href="https://twitter.com/TamalDa97718338  ">
+<a href="https://twitter.com/mrTamall">
   <img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="pics/iconfinder_twitter_circle_294709.png" />
 </a>
 
