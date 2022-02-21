@@ -1,7 +1,34 @@
-# <strong> Hey 👋, I'm Tamal! </strong>
+[![MasterHead](https://i.ibb.co/7JskxjJ/tb-2.png)](https://rishavchanda.io)
 
-<a href="https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d">
-  <img style="padding-right:10px;" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" />
+
+<h1 align="center">Hi 👋, I'm Tamal Das</h1>
+<h3 align="center">A passionate Web developer from India, doing open source and connecting communities !! </h3>
+
+
+**I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.netlify.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.**
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+  
+## 🧐 <strong> More about me: </strong>
+
+<p >- 🌱 I am currently learning Docker, Kubernetes </p>
+
+<p>- 👯 I’m looking to collaborate on full stack projects </p>
+
+<p>- 💬 Ask me about DSA, JS, Node, C & C++</p>
+
+<p>- ⚡ Fun fact :  I watch animes and stalk Twitter whenever free</p>
+
+<p>- 💝 Feel free to reach  out !! </strong> </p>
+
+
+
+## 😎 <strong> Reach out to me: </strong>
+
+<a href="https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d" >
+  <img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" align="center"/>
 </a>
 
 <a href=" https://www.instagram.com/__.tamal._/">
@@ -15,26 +42,6 @@
 <a href="https://twitter.com/mrTamall">
   <img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="pics/iconfinder_twitter_circle_294709.png" />
 </a>
-
-<br> <br>
-
-I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.netlify.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-  
-## 🧐 <strong> More about me: </strong>
-
-<p >- 🌱 I am currently learning Data structures and algorithm </p>
-
-<p>- 👯 I’m looking to collaborate on full stack projects </p>
-
-<p>- 💬 Ask me about DSA, JS, Node, C & C++</p>
-
-<p>- ⚡ Fun fact :  I watch animes and stalk Twitter whenever free</p>
-
-<p>- 💝 Feel free to reach  out !! </strong> </p>
 
 <br> <br>
 
