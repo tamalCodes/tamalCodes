@@ -48,7 +48,15 @@
 ## 📊 <strong> My Github Stats 🚀 </strong>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula" alt="tamaldas" /></p>
+
+<p align="left">
+  <a>
+    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula"/>
+    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
+  </a>
+</p>
+
 
 <br>
 
