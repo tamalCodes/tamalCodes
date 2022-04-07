@@ -101,7 +101,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Software Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) | Jan 2022 - Present |
+| FrontEnd Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) | Jan 2022 - Present |
 | Open source mentor | [GSsOc](https://gssoc.girlscript.tech/) | Feb 2022 - Present |
 | Open source mentor | [JWOC](https://jwoc.tech/) | Jan 2022 - Present |
 | Open source mentor | [Diversion](https://diversion.tech/#) | Jan 2022 - Present |
