@@ -21,9 +21,6 @@
 
 <p>- ⚡ Fun fact :  I watch animes and stalk Twitter whenever free</p>
 
-<p>- 💝 Feel free to reach  out !! </strong> </p>
-
-
 
 ## 😎 <strong> Reach out to me: </strong>
 
@@ -101,8 +98,8 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| FrontEnd Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) | Jan 2022 - Present |
+| FrontEnd Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) | Jan 2022 - March 2022 |
 | Open source mentor | [GSsOc](https://gssoc.girlscript.tech/) | Feb 2022 - Present |
-| Open source mentor | [JWOC](https://jwoc.tech/) | Jan 2022 - Present |
-| Open source mentor | [Diversion](https://diversion.tech/#) | Jan 2022 - Present |
+| Open source mentor | [JWOC](https://jwoc.tech/) | Jan 2022 - March 2022 |
+| Open source mentor | [Diversion](https://diversion.tech/#) | Jan 2022 - April 2022 |
 | Fullstack Developer | [ACM-UEM](https://www.facebook.com/acmuemk) | November 2021 - Present |
