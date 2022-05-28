@@ -1,4 +1,4 @@
-<a href="https://tamal.vercel.app/" target="_blank"><img src="https://i.ibb.co/ns1CpPg/tamalbanner2.gif?raw=true" /></a>
+<a href="https://tamal.vercel.app/" target="_blank"><img src="https://github.com/IAmTamal/IAmTamal" /></a>
 
 <h1 align="center">Hi 👋, I'm Tamal Das</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
