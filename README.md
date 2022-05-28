@@ -24,27 +24,17 @@
 
 <br> <br>
 
-<h2 align="center"> My Github Stats 🚀</h2>
+<h1 align="center"> My Github Stats 🚀 <br/> <br/> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula"/> <br/>
 
-<p align="left">
-  <a>
-    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula"/>
-    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
-  </a>
-</p>
+</h1>
 
-<br>
 
-[website]: https://linktr.ee/Itsmetamal
-[course]: http://vsCodeHero.com
-[linkedin]: https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<h2 align="center"> Technologies I use:</h2>
+<br/>
+
+
+<h1 align="center"> Technologies I use 💡 <br/> <br/>
 
 <p align="center">
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -70,19 +60,26 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 </p>
+  
+</h1>
+
+
 
 <br> <br>
 
-<h2 align="center"> 🚀 Work Experience </h2>
+<h1 align="center"> 🚀 Work Experience </h1>
 
 <p align="center">
-
-|      💼 Designation      |                       🏢Organization                       |       ⏰Timeline        |
-| :----------------------: | :--------------------------------------------------------: | :---------------------: |
-| FrontEnd Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) |  Jan 2022 - March 2022  |
-|    Open source mentor    |          [GSsOc](https://gssoc.girlscript.tech/)           |   Feb 2022 - Present    |
-|    Open source mentor    |                 [JWOC](https://jwoc.tech/)                 |  Jan 2022 - March 2022  |
-|    Open source mentor    |           [Diversion](https://diversion.tech/#)            |  Jan 2022 - April 2022  |
-|   Fullstack Developer    |        [ACM-UEM](https://www.facebook.com/acmuemk)         | November 2021 - Present |
-
+  <a href="https://www.linkedin.com/company/innception/" align="center"> <h5 align="center"> 🧁 Innception Io - SDE Intern (Jan 2022 - March 2022) </h5> </a>
+  
+  <a href="https://www.linkedin.com/company/waystomakemoney/" align="center"> <h5 align="center"> 🧁 WaysToMakeMoney - FEE Intern (March 2022 - May 2022) </h5> </a>
+  
+  <a href="https://www.linkedin.com/company/uem-kolkata-acm/" align="center"> <h5 align="center"> 🧁 ACM UEMK - Frontend Engineer (November 2021 - Present) </h5> </a>
+  
+  <a href="https://gssoc.girlscript.tech/" align="center"> <h5 align="center"> 🧁 GSSOC 2022 - Open source mentor (Feb 2022 - Present) </h5> </a>
+  
+  <a href="https://jwoc.tech/" align="center"> <h5 align="center"> 🧁 JWOC 2022 - Open source mentor (Jan 2022 - March 2022) </h5> </a>
+  
+  <a href="https://diversion.tech/#" align="center"> <h5 align="center"> 🧁 Diversion 2022 - Open source mentor (Jan 2022 - March 2022) </h5> </a>
+  
 </p>
