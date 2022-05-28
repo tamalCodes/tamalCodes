@@ -1,15 +1,26 @@
-[![MasterHead](https://i.ibb.co/7JskxjJ/tb-2.png)](https://rishavchanda.io)
-
+[![MasterHead](https://i.ibb.co/ns1CpPg/tamalbanner2.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Tamal Das</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
 
-
 **I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.netlify.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.**
 <br/>
+
+<p align="center">
+  <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/IAmTamal">
+    <img src="https://img.shields.io/github/followers/IAmTamal?logo=github&style=for-the-badge&color=blue" />
+  </a>
+</p>
+
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
   
 ## 🧐 <strong> More about me: </strong>
 
@@ -20,7 +31,6 @@
 <p>- 💬 Ask me about DSA, JS, Node, C & C++</p>
 
 <p>- ⚡ Fun fact :  I watch animes and stalk Twitter whenever free</p>
-
 
 ## 😎 <strong> Reach out to me: </strong>
 
@@ -44,8 +54,6 @@
 
 ## 📊 <strong> My Github Stats 🚀 </strong>
 
-
-
 <p align="left">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
@@ -53,7 +61,6 @@
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
-
 
 <br>
 
@@ -94,12 +101,12 @@
 
 <br> <br>
 
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
+## 🚀 **Work Experience** :computer_mouse: :desktop_computer:
 
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| FrontEnd Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) | Jan 2022 - March 2022 |
-| Open source mentor | [GSsOc](https://gssoc.girlscript.tech/) | Feb 2022 - Present |
-| Open source mentor | [JWOC](https://jwoc.tech/) | Jan 2022 - March 2022 |
-| Open source mentor | [Diversion](https://diversion.tech/#) | Jan 2022 - April 2022 |
-| Fullstack Developer | [ACM-UEM](https://www.facebook.com/acmuemk) | November 2021 - Present |
+|      💼 Designation      |                       🏢Organization                       |       ⏰Timeline        |
+| :----------------------: | :--------------------------------------------------------: | :---------------------: |
+| FrontEnd Engineer Intern | [Innception](https://www.linkedin.com/company/innception/) |  Jan 2022 - March 2022  |
+|    Open source mentor    |          [GSsOc](https://gssoc.girlscript.tech/)           |   Feb 2022 - Present    |
+|    Open source mentor    |                 [JWOC](https://jwoc.tech/)                 |  Jan 2022 - March 2022  |
+|    Open source mentor    |           [Diversion](https://diversion.tech/#)            |  Jan 2022 - April 2022  |
+|   Fullstack Developer    |        [ACM-UEM](https://www.facebook.com/acmuemk)         | November 2021 - Present |
