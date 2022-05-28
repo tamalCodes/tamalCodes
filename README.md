@@ -1,9 +1,9 @@
-[![MasterHead](https://i.ibb.co/ns1CpPg/tamalbanner2.gif)](https://rishavchanda.io)
+<a href="https://tamal.vercel.app/" target="_blank"><img src="https://i.ibb.co/ns1CpPg/tamalbanner2.gif" /></a>
 
 <h1 align="center">Hi 👋, I'm Tamal Das</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
 
-**I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://hello-tamal.netlify.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.**
+**I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://tamal.vercel.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.**
 <br/>
 
 <p align="center">
