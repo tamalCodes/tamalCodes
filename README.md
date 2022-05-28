@@ -67,7 +67,7 @@
 
 <br> <br>
 
-<h1 align="center"> 🚀 Work Experience </h1>
+<h1 align="center"> Here's some of my work experience 🚀 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/innception/" align="center"> <h5 align="center"> 🧁 Innception Io - SDE Intern (Jan 2022 - March 2022) </h5> </a>
