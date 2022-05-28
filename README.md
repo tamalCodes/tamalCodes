@@ -1,14 +1,14 @@
-<a href="https://tamal.vercel.app/" target="_blank"><img src="https://github.com/IAmTamal/IAmTamal" /></a>
+<a href="https://tamal.vercel.app/" target="_blank"><img src="https://github.com/IAmTamal/IAmTamal/blob/main/tamalbanner2.gif?raw=true" /></a>
 
-<h1 align="center">Hi 👋, I'm Tamal Das</h1>
+<h1 align="center">Opensource for the win 💙</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
 
 **I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://tamal.vercel.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.**
 <br/>
 
 <p align="center">
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  <a href="https://twitter.com/mrTamall">
+    <img src="https://img.shields.io/twitter/follow/mrTamall?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
@@ -20,39 +20,11 @@
 
 <br/>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-  
-## 🧐 <strong> More about me: </strong>
-
-<p >- 🌱 I am currently learning Docker, Kubernetes </p>
-
-<p>- 👯 I’m looking to collaborate on full stack projects </p>
-
-<p>- 💬 Ask me about DSA, JS, Node, C & C++</p>
-
-<p>- ⚡ Fun fact :  I watch animes and stalk Twitter whenever free</p>
-
-## 😎 <strong> Reach out to me: </strong>
-
-<a href="https://www.linkedin.com/in/say-hello-to-tamal/?ltclid=623ec2b7-d26a-483e-85aa-4a522c551c0d" >
-  <img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" align="center"/>
-</a>
-
-<a href=" https://www.instagram.com/__.tamal._/">
-  <img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="pics/iconfinder_instagram_1632517.png" />
-</a>
-
-<a href=" https://www.facebook.com/people/Tamal-Das/100018596350528/">
-  <img style="padding-right:10px;" align="left" alt="db's Facebook" width="24px" src="pics/iconfinder_social-facebook-2019-circle_4696483.png" />
-</a>
-
-<a href="https://twitter.com/mrTamall">
-  <img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="pics/iconfinder_twitter_circle_294709.png" />
-</a>
+<img src="https://github.com/IAmTamal/IAmTamal/blob/main/aboutme.gif?raw=true" alt="hellothere" />
 
 <br> <br>
 
-## 📊 <strong> My Github Stats 🚀 </strong>
+<h2 align="center"> My Github Stats 🚀</h2>
 
 <p align="left">
   <a>
@@ -72,9 +44,9 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-## 👨‍💻 <strong> Technologies I use: </strong>
+<h2 align="center"> Technologies I use:</h2>
 
-<p>
+<p align="center">
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -101,7 +73,9 @@
 
 <br> <br>
 
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer:
+<h2 align="center"> 🚀 Work Experience </h2>
+
+<p align="center">
 
 |      💼 Designation      |                       🏢Organization                       |       ⏰Timeline        |
 | :----------------------: | :--------------------------------------------------------: | :---------------------: |
@@ -110,3 +84,5 @@
 |    Open source mentor    |                 [JWOC](https://jwoc.tech/)                 |  Jan 2022 - March 2022  |
 |    Open source mentor    |           [Diversion](https://diversion.tech/#)            |  Jan 2022 - April 2022  |
 |   Fullstack Developer    |        [ACM-UEM](https://www.facebook.com/acmuemk)         | November 2021 - Present |
+
+</p>
