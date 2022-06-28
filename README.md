@@ -1,4 +1,4 @@
-<a href="https://tamal.vercel.app/" target="_blank"><img src="https://github.com/IAmTamal/IAmTamal/blob/main/tamalbanner2.gif?raw=true" /></a>
+<a href="https://tamal.vercel.app/" target="_blank"><img src="https://github.com/IAmTamal/IAmTamal/blob/main/GitHub%20Name%20Banner.gif?raw=true" /></a>
 
 <h1 align="center">Opensource for the win 💙</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
