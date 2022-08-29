@@ -4,7 +4,7 @@
 <h1 align="center">Opensource for the win 💙</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
 
-**I am a sophomore, pursuing Btech in Computer science and engineering. I make elegantly professional 🌍 web apps and also design user experiences 🎨. You can find my resume [here](https://tamal.vercel.app/). I'm working on web development projects , mentoring students on Open Source events , and hustling to be better everyday.**
+**I'm a pre-final year student pursuing Bachelors in Computer science and Engineering, i'm a fullstack web developer who loves to help out folks from all around the world get started with Opensource, web-dev, hackathons and so much more. Feel free to follow me on [Twitter](https://twitter.com/mrTamall) or contact me, know more about me via my [Portfolio](https://tamal.vercel.app/)**
 <br/>
 
 <p align="center">
@@ -23,17 +23,12 @@
 
 <img src="https://github.com/IAmTamal/IAmTamal/blob/main/aboutme.gif?raw=true" alt="hellothere" />
 
-<br> <br>
+<br> 
 
-<h1 align="center"> My Github Stats 🚀 <br/> <br/> 
+<h1 align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula"/> <br/>
 
 </h1>
-
-
-
-<br/>
-
 
 <h1 align="center"> Technologies I use 💡 <br/> <br/>
 
