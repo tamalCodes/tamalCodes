@@ -64,23 +64,7 @@
   
 </h1>
 
+<br> 
 
+<img src="https://github.com/IAmTamal/IAmTamal/blob/main/My%20work.gif?raw=true" />
 
-<br> <br>
-
-<h1 align="center"> Here's some of my work experience 🚀 </h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/company/innception/" align="center"> <h5 align="center"> 🧁 Innception Io - SDE Intern (Jan 2022 - March 2022) </h5> </a>
-  
-  <a href="https://www.linkedin.com/company/waystomakemoney/" align="center"> <h5 align="center"> 🧁 WaysToMakeMoney - FEE Intern (March 2022 - May 2022) </h5> </a>
-  
-  <a href="https://www.linkedin.com/company/uem-kolkata-acm/" align="center"> <h5 align="center"> 🧁 ACM UEMK - Frontend Engineer (November 2021 - Present) </h5> </a>
-  
-  <a href="https://gssoc.girlscript.tech/" align="center"> <h5 align="center"> 🧁 GSSOC 2022 - Open source mentor (Feb 2022 - Present) </h5> </a>
-  
-  <a href="https://jwoc.tech/" align="center"> <h5 align="center"> 🧁 JWOC 2022 - Open source mentor (Jan 2022 - March 2022) </h5> </a>
-  
-  <a href="https://diversion.tech/#" align="center"> <h5 align="center"> 🧁 Diversion 2022 - Open source mentor (Jan 2022 - March 2022) </h5> </a>
-  
-</p>
