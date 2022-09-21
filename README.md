@@ -17,13 +17,7 @@
   <a href="https://github.com/IAmTamal">
     <img src="https://img.shields.io/github/followers/IAmTamal?logo=github&style=for-the-badge&color=blue" />
   </a>
-</p>
-
-<br/>
-
-<img src="https://github.com/IAmTamal/IAmTamal/blob/main/aboutme.gif?raw=true" alt="hellothere" />
-
-<br> 
+</p> 
 
 <h1 align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IAmTamal&theme=dracula"/> <br/>
