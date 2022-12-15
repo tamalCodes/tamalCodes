@@ -1,5 +1,6 @@
+![GitHub Banner](https://user-images.githubusercontent.com/72851613/207913942-354b2399-f12d-403a-abfd-dd367feebeb5.png)
 
-<img src="https://github.com/IAmTamal/IAmTamal/blob/main/GitHub%20Name%20Banner.gif?raw=true" />
+
 
 <h1 align="center">Opensource for the win 💙</h1>
 <h3 align="center">A passionate Web developer from India, contributing to open source and connecting communities !! </h3>
