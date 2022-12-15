@@ -55,3 +55,8 @@
 
 <img src="https://github.com/IAmTamal/IAmTamal/blob/main/My%20work.gif?raw=true" />
 
+
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
