@@ -58,5 +58,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-
+- [The hype about Opensource programs - Good or Bad ?](https://tamal-writes.hashnode.dev//opensourcehype)
+- [Me, tech and Failures](https://tamal-writes.hashnode.dev//me-tech-and-failures)
+- [Getting a Tech Job, Internship, Remote work in 2022](https://tamal-writes.hashnode.dev//techjob2022)
+- [5 Ways to level up your Opensource project](https://tamal-writes.hashnode.dev//opensource-forthewin)
 <!-- HASHNODE_BLOG:END -->
