@@ -1,0 +1,20 @@
+name: "Blog Post Workflow"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs Every Day
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout Repo"
+        uses: actions/checkout@main
+      - name: "Blog update Action"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: "tamalWrites" # Hashnode Username
+          BLOG_URL: "https://tamal-writes.hashnode.dev/" # Blog URL
+          COUNT: 4 # MAX Visisble
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
