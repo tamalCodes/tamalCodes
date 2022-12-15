@@ -58,8 +58,16 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [The hype about Opensource programs - Good or Bad ?](https://tamal-writes.hashnode.dev//opensourcehype)
-- [Me, tech and Failures](https://tamal-writes.hashnode.dev//me-tech-and-failures)
-- [Getting a Tech Job, Internship, Remote work in 2022](https://tamal-writes.hashnode.dev//techjob2022)
-- [5 Ways to level up your Opensource project](https://tamal-writes.hashnode.dev//opensource-forthewin)
+<p align="left">
+<a href="https://tamal-writes.hashnode.dev//opensourcehype" title="The hype about Opensource programs - Good or Bad ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670741900419/qUNUovciK.png" alt="The hype about Opensource programs - Good or Bad ?" width="250px" align="left" /></a>
+<a href="https://tamal-writes.hashnode.dev//opensourcehype" title="The hype about Opensource programs - Good or Bad ?"><strong>The hype about Opensource programs - Good or Bad ?</strong></a>
+<br/> In this blog, I will be talking about the hype that goes around Opensource programs happening all over the world and how it affects folks into Opensource.  These are my views, I would love to know yours in the comments.
+What are Opensource programs?
+... </p> <br/> <br/>
+<p align="left">
+<a href="https://tamal-writes.hashnode.dev//me-tech-and-failures" title="Me, tech and Failures"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670249676682/gVI-mmK2y.png" alt="Me, tech and Failures" width="250px" align="left" /></a>
+<a href="https://tamal-writes.hashnode.dev//me-tech-and-failures" title="Me, tech and Failures"><strong>Me, tech and Failures</strong></a>
+<br/> Well, this is just going to be a blog where I talk about myself in tech and the failures I faced so that you all don't feel alone like I did back then.
+How did I start with Tech?
+Well to be honest I started with tech when covid started and we all wer... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
