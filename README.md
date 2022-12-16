@@ -39,7 +39,7 @@ Well to be honest I started with tech when covid started and we all wer... </p> 
   <a href="https://twitter.com/mrTamall">
     <img src="https://img.shields.io/twitter/follow/mrTamall?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  <a href="https://github.com/IAmTamal">
+  <a href="https://www.linkedin.com/in/say-hello-to-tamal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
