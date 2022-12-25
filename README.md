@@ -16,17 +16,16 @@ I'm a **fullstack web developer, freelancer and working to be a devrel !** <br> 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="A year of Tech - Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671178541615/6ddhoIsCc.png" alt="A year of Tech - Dev Retro 2022" width="250px" align="left" /></a>
+<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="A year of Tech - Dev Retro 2022"><strong>A year of Tech - Dev Retro 2022</strong></a>
+<br/> Starting as an intern
+My start to this year was amazing, I got to work remotely in startups across the world as a web developer, learning so much more about React, GitHub, automation, stylings, and growing as a dev. In startups you don't have too muc... </p> <br/> <br/>
+<p align="left">
 <a href="https://tamal-writes.hashnode.dev//opensourcehype" title="The hype about Opensource programs - Good or Bad ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670741900419/qUNUovciK.png" alt="The hype about Opensource programs - Good or Bad ?" width="250px" align="left" /></a>
 <a href="https://tamal-writes.hashnode.dev//opensourcehype" title="The hype about Opensource programs - Good or Bad ?"><strong>The hype about Opensource programs - Good or Bad ?</strong></a>
 <br/> In this blog, I will be talking about the hype that goes around Opensource programs happening all over the world and how it affects folks into Opensource.  These are my views, I would love to know yours in the comments.
 What are Opensource programs?
 ... </p> <br/> <br/>
-<p align="left">
-<a href="https://tamal-writes.hashnode.dev//me-tech-and-failures" title="Me, tech and Failures"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670249676682/gVI-mmK2y.png" alt="Me, tech and Failures" width="250px" align="left" /></a>
-<a href="https://tamal-writes.hashnode.dev//me-tech-and-failures" title="Me, tech and Failures"><strong>Me, tech and Failures</strong></a>
-<br/> Well, this is just going to be a blog where I talk about myself in tech and the failures I faced so that you all don't feel alone like I did back then.
-How did I start with Tech?
-Well to be honest I started with tech when covid started and we all wer... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
