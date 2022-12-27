@@ -16,8 +16,8 @@ I'm a **fullstack web developer, freelancer and working to be a devrel !** <br> 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="A year of Tech - Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671178541615/6ddhoIsCc.png" alt="A year of Tech - Dev Retro 2022" width="250px" align="left" /></a>
-<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="A year of Tech - Dev Retro 2022"><strong>A year of Tech - Dev Retro 2022</strong></a>
+<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="Cheers to my journey in tech - Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671178541615/6ddhoIsCc.png" alt="Cheers to my journey in tech - Dev Retro 2022" width="250px" align="left" /></a>
+<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="Cheers to my journey in tech - Dev Retro 2022"><strong>Cheers to my journey in tech - Dev Retro 2022</strong></a>
 <br/> Starting as an intern
 My start to this year was amazing, I got to work remotely in startups across the world as a web developer, learning so much more about React, GitHub, automation, stylings, and growing as a dev. In startups you don't have too muc... </p> <br/> <br/>
 <p align="left">
