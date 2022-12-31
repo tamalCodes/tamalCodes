@@ -12,7 +12,7 @@ I'm a **fullstack web developer, freelancer and working to be a devrel !** <br> 
   
 </div>
 
-# My Latest Blog Posts 👇
+## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
@@ -28,11 +28,7 @@ What are Opensource programs?
 ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<div align="center">
-
-**Socials**
-
-</div>
+<p align="center"><a href="https://tamal-writes.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p>
 
 <p align="center">
   <a href="https://twitter.com/mrTamall">
