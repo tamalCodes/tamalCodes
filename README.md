@@ -28,7 +28,7 @@ What are Opensource programs?
 ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<p align="center"><a href="https://tamal-writes.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p>
+<p align="center"><a href="https://tamal-writes.hashnode.dev/"><img src="https://raw.githubusercontent.com/IAmTamal/IAmTamal/main/pics/blogbanner.png"></a></p>
 
 <p align="center">
   <a href="https://twitter.com/mrTamall">
