@@ -47,8 +47,13 @@ What are Opensource programs?
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Lead Developer</b> </td>
+      <td> <b> Lead web developer</b> </td>
       <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
+      <td> <b>Oct 2022 - Present </b> </td>
+   </tr>
+    <tr>
+      <td> <b> Opensource Devrel</b> </td>
+      <td><a href="https://productefy.com/"/><b>CodeIN Community</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
    <tr>
@@ -83,27 +88,36 @@ What are Opensource programs?
 
 <br/>
 <br/>
- <h2 align="center" id = "work-experience">🚀 Some of my OSS Contributions </h2> 
 
+ <h2 align="center" id = "work-experience">✨ Community, Opensource </h2> 
+  <li><a href="https://ureckon.uem.edu.in/" /> Web Development lead, Ureckon, UEM Kolkata - Leading the tech team for a sucessful fest </a></li>
 
-<p align="center">
-<a href="https://github.com/atsign-foundation/.github/pull/33" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px" src="https://avatars.githubusercontent.com/u/51759304?s=200&v=4" /><b>The Atsign Foundation</b></a>
-<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e/pull/456" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px" src="http://shivamgrg.me/BigB-E-learn-Websit-e/img/v.png" /><b>BigB-E-learn-Websit-e</b></a>
-<a href="https://github.com/Clueless-Community/clueless-official-website/pull/215" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px" src="https://avatars.githubusercontent.com/u/99969752?s=200&v=4" /><b>Clueless-Community</b></a>
-<a href="https://github.com/bagisto/bagisto/pull/6818" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px" src="https://avatars.githubusercontent.com/u/43133047?s=200&v=4" /><b>
-Bagisto</b></a>
-<a href="https://github.com/IgKniteDev/IgKnite/pull/66" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px" src="https://avatars.githubusercontent.com/u/110962664?s=200&v=4" /><b>
-IgKnite</b></a>
-<a href="https://github.com/IgKniteDev/IgKnite/pull/66" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px"  src="https://avatars.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4" /><b>
-DeveloperFolio</b></a>
-<a href="https://github.com/containrrr/watchtower/pull/1404" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px"  src="https://avatars.githubusercontent.com/u/49166261?s=200&v=4" /><b>
-Conainrrr</b></a>
-<a href="https://github.com/hack4bengal/hack4bengal.github.io" style="padding-right:30px"><img style="padding-right:10px" align="center" alt="db's Twitter" width="50px"  src="https://avatars.githubusercontent.com/u/96075231?s=200&v=4" /><b>
-Hack4Bengal</b></a>
+  <li><a href="https://drive.google.com/file/d/1UQT4dz6mpcliq0Ea3yhP89yXYI7JbHdM/view?usp=share_link" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022) </a></li>
 
-</p>
-<br/>
-<br/>
+  <li><a href="https://drive.google.com/file/d/1rMfuGNj6_Im1M5tt5l_vAvYeT3tq_SdA/view?usp=share_link" /> Most Creative Use of GitHub Prize In Hack4Bengal(SNU,2022) </a></li>
+
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6986221096706461696/" /> Introduction to Hacktoberfest'22 - Spoke about Opensource, Web, Hacktoberfest (GDSC MAIT) </a></li>
+
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6986221096706461696/" /> Hacktoberfest event - Spoke about Opensource, Web, Hacktoberfest (GDSC UNILAG) </a></li>
+
+  <li><a href="https://twitter.com/mrTamall/status/1500349049559347200" /> Collaborated with some other content creators over Opensource, Hacktoberfest, Web </a></li>
+
+  <li><a href="https://twitter.com/mrTamall/status/1580475933072314369" /> Most Creative Use of GitHub Prize In Hack4Bengal(SNU,2022) </a></li>
+
+  <li><a href="https://drive.google.com/file/d/1rMfuGNj6_Im1M5tt5l_vAvYeT3tq_SdA/view?usp=share_link" /> Best project Mentor, JGEC (Jailpaiguri Govt College) </a></li>
+    
+  <li><a href="https://drive.google.com/file/d/1rMfuGNj6_Im1M5tt5l_vAvYeT3tq_SdA/view?usp=share_link" /> Opensource project Mentor GSSOC (GirlScript Summer of Code) </a></li>
+    
+    
+  <li><a href="https://drive.google.com/file/d/14yI8-9kxr-oYXhGOS9ca5_qde_d3XOCG/view?usp=share_link" /> Opensource project Mentor Diversion (IEM Kolkata) </a></li>
+    
+    
+  <li><a href="https://drive.google.com/file/d/1fGiP2V532Okn6zy7pRoZoPZhs_r8idq5/view?usp=share_link" /> Opensource contributor, KWOC (IIT Kharagpur) </a></li>
+    
+    
+  <li><a href="https://drive.google.com/file/d/1o7OBYzl1TtdK_fYz0ksiSTYGIBM42glF/view?usp=share_link" /> Opensource mentee, Social Summer of code </a></li>
+    
+
 
 
 <h2 align="center"> Let's Connect: </h2>
