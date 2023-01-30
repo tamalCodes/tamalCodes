@@ -89,7 +89,7 @@ What are Opensource programs?
 <br/>
 <br/>
 
- <h2 align="center" id = "work-experience">✨ Community, Opensource </h2> 
+ <h2 align="center" id = "work-experience">🎉 Community, Opensource, Achievements </h2> 
   <li><a href="https://ureckon.uem.edu.in/" /> Web Development lead, Ureckon, UEM Kolkata - Leading the tech team for a sucessful fest </a></li>
 
   <li><a href="https://drive.google.com/file/d/1UQT4dz6mpcliq0Ea3yhP89yXYI7JbHdM/view?usp=share_link" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022) </a></li>
