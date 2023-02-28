@@ -49,18 +49,23 @@ My start to this year was amazing, I got to work remotely in startups across the
       <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
+   <tr>
+      <td> <b> Freelance web developer</b> </td>
+      <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
+      <td> <b>Feb 2023</b> </td>
+   </tr>
     <tr>
       <td> <b> Opensource Devrel</b> </td>
       <td><a href="https://productefy.com/"/><b>CodeIN Community</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
    <tr>
-      <td> <b>Freelancing Web Developer</b> </td>
+      <td> <b>Freelance Web Developer</b> </td>
       <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
       <td> <b>Jan 2023</b> </td>
    </tr>    
    <tr>
-      <td> <b>Freelancing Web Developer</b> </td>
+      <td> <b>Freelance Web Developer</b> </td>
       <td><a href="https://techmartme.com/"/><b>TechMart</b></a></td>
       <td> <b>Nov 2022</b> </td>
    </tr>    
