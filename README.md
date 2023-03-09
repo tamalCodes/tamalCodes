@@ -16,14 +16,14 @@ I'm a **fullstack web developer, freelancer and working to be a devrel !** <br> 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://tamal-writes.hashnode.dev//nextauth" title="NextAuth.js: The Ultimate Security Solution for Your Next.js App"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678265118999/19e15d45-a123-40f5-9025-d3a68f1a0ef2.png" alt="NextAuth.js: The Ultimate Security Solution for Your Next.js App" width="250px" align="left" /></a>
+<a href="https://tamal-writes.hashnode.dev//nextauth" title="NextAuth.js: The Ultimate Security Solution for Your Next.js App"><strong>NextAuth.js: The Ultimate Security Solution for Your Next.js App</strong></a>
+<br/> Introduction
+In web development, authentication is crucial for users to verify their identities and access essential resources. NextAuth.js is a highly acclaimed authentication library specifically designed for Next.js applications that provide a ver... </p> <br/> <br/>
+<p align="left">
 <a href="https://tamal-writes.hashnode.dev//grow-with-communities" title="The art of growing : Communities"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675317527741/6bb059a4-1913-464d-b8b8-1379ad3771f0.png" alt="The art of growing : Communities" width="250px" align="left" /></a>
 <a href="https://tamal-writes.hashnode.dev//grow-with-communities" title="The art of growing : Communities"><strong>The art of growing : Communities</strong></a>
 <br/> We all have often heard about communities, how communities help us grow and so much more. In this blog, I will be talking about how communities can help an individual in terms of tech growth and also will be linking down some of the best communities ... </p> <br/> <br/>
-<p align="left">
-<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="Cheers to my journey in tech - Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671178541615/6ddhoIsCc.png" alt="Cheers to my journey in tech - Dev Retro 2022" width="250px" align="left" /></a>
-<a href="https://tamal-writes.hashnode.dev//tamals-devretro22" title="Cheers to my journey in tech - Dev Retro 2022"><strong>Cheers to my journey in tech - Dev Retro 2022</strong></a>
-<br/> Starting as an intern
-My start to this year was amazing, I got to work remotely in startups across the world as a web developer, learning so much more about React, GitHub, automation, stylings, and growing as a dev. In startups you don't have too muc... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center"><a href="https://tamal-writes.hashnode.dev/"><img src="https://raw.githubusercontent.com/IAmTamal/IAmTamal/main/pics/blogbanner.png"></a></p>
