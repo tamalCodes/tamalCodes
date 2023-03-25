@@ -124,11 +124,3 @@ In web development, authentication is crucial for users to verify their identiti
     
 
 
-
-<h2 align="center"> Let's Connect: </h2>
-<p align="center">
-<a href="https://twitter.com/mrTamall"><img style="padding-right:10px" align="center" alt="db's Twitter" width="24px" src="./pics/iconfinder_twitter_circle_294709.png" /></a>
-<a href="https://www.linkedin.com/in/say-hello-to-tamal/"><img style="padding-right:10px; padding-left:5px" align="center" alt="db's LinkedIn" width="24px" src="./pics/linkedin.png" align="center" /></a>
-<a href="https://www.instagram.com/hellotamal/"><img style="padding-right:10px;" align="center" alt="db's Instagram" width="24px" src="./pics/iconfinder_instagram_1632517.png" /></a>
-</p>
-<br/>
