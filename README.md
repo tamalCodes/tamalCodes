@@ -45,27 +45,32 @@ In web development, authentication is crucial for users to verify their identiti
   </thead>
   <tbody> 
     <tr>
+      <td> <b> Technical Lead</b> </td>
+      <td><a href="https://www.irlamigo.com/"/><b>Productefy</b></a></td>
+      <td> <b>Dec 2022 - Present </b> </td>
+   </tr>
+    <tr>
       <td> <b> Lead web developer</b> </td>
       <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
-   <tr>
-      <td> <b> Freelance web developer</b> </td>
-      <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
-      <td> <b>Feb 2023</b> </td>
-   </tr>
     <tr>
-      <td> <b> Opensource Devrel</b> </td>
-      <td><a href="https://productefy.com/"/><b>CodeIN Community</b></a></td>
+      <td> <b>DevRel</b> </td>
+      <td><a href="https://twitter.com/CodeinCommunity"/><b>CodeIN Community</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
+      <tr>
+      <td> <b> Freelance web developer </b> </td>
+      <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
+      <td> <b>Jan 2023 - March 2023</b> </td>
+   </tr>
    <tr>
-      <td> <b>Freelance Web Developer</b> </td>
+      <td> <b>Freelance web developer</b> </td>
       <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
-      <td> <b>Jan 2023</b> </td>
+      <td> <b>Nov 2022 - Jan 2023</b> </td>
    </tr>    
    <tr>
-      <td> <b>Freelance Web Developer</b> </td>
+      <td> <b>Freelance web developer</b> </td>
       <td><a href="https://techmartme.com/"/><b>TechMart</b></a></td>
       <td> <b>Nov 2022</b> </td>
    </tr>    
@@ -92,7 +97,9 @@ In web development, authentication is crucial for users to verify their identiti
 <br/>
 <br/>
 
- <h2 align="center" id = "work-experience">🎉 Community, Opensource, Achievements </h2> 
+ <h2 align="center" id = "work-experience">🎉 Community, Opensource & Achievements </h2> 
+ <li><a href="https://www.hack4bengal.tech/" /> Fullstack web developer for Hack4Bengal, building the amazing hackathon's sucess story. </a></li>
+ 
    <li><a href="https://ureckon.uem.edu.in/" /> Lead Dev, Ureckathon'23 - Making the hackathon sucessful. </a></li>
    
   <li><a href="https://ureckon.uem.edu.in/" /> Web Development lead, Ureckon, UEM Kolkata - Leading the tech team for a sucessful fest </a></li>
