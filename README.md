@@ -6,7 +6,7 @@
 
 I'm a **fullstack web developer, freelancer and working to be a devrel !** <br> I'm in love with Opensource, Communties and also am building an **[Opensource project](https://github.com/IAmTamal/Milan)**. I am up for freelancing projects, mentoring sessions, workshops.
 
-**If you need a webdev, hire me ➡ [Portfolio](https://tamal.vercel.app/)**
+<p align="center"><a href="https://tamal-writes.hashnode.dev/"><img src="https://raw.githubusercontent.com/IAmTamal/IAmTamal/main/pics/blogbanner.png"></a></p>
 
 <br>  
   
