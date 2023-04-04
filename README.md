@@ -45,8 +45,8 @@ In web development, authentication is crucial for users to verify their identiti
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Technical Lead</b> </td>
-      <td><a href="https://www.irlamigo.com/"/><b>Productefy</b></a></td>
+      <td> <b> Tech Lead</b> </td>
+      <td><a href="https://www.irlamigo.com/"/><b>IRL Amigo</b></a></td>
       <td> <b>Dec 2022 - Present </b> </td>
    </tr>
     <tr>
