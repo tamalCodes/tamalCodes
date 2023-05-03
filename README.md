@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I'm a **fullstack web developer, freelancer and working to be a devrel !** <br> I'm in love with Opensource, Communties and also am building an **[Opensource project](https://github.com/IAmTamal/Milan)**. I am up for freelancing projects, mentoring sessions, workshops.
+I'm a **fullstack Web Developer, Freelancer & budding Software engineer** <br> I'm in love with Opensource, Communties and also am building an **[Opensource project](https://github.com/IAmTamal/Milan)**. I am up for freelancing projects, mentoring sessions, workshops, DevRel & Web Dev role.
 
 <p align="center"><a href="https://tamaldas.me"><img src="https://github.com/IAmTamal/IAmTamal/blob/442bc80ee87d7f2fb6b0440f4fbf679071e11d7e/pics/tamaldev2.png"></a></p>
 
