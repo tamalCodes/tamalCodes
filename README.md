@@ -54,17 +54,17 @@ Don't use useEffect for every damn state update!It'll slow your app down and cau
     <tr>
       <td> <b> Lead web developer</b> </td>
       <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
-      <td> <b>Oct 2022 - Present </b> </td>
+      <td> <b>Oct 2022 - March 2023 </b> </td>
    </tr>
-    <tr>
-      <td> <b>DevRel</b> </td>
-      <td><a href="https://twitter.com/CodeinCommunity"/><b>CodeIN Community</b></a></td>
-      <td> <b>Oct 2022 - Present </b> </td>
-   </tr>
-      <tr>
+   <tr>
       <td> <b> Freelance web developer </b> </td>
       <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
       <td> <b>Jan 2023 - March 2023</b> </td>
+   </tr>
+   <tr>
+      <td> <b>Developer Relations</b> </td>
+      <td><a href="https://twitter.com/CodeinCommunity"/><b>CodeIN Community</b></a></td>
+      <td> <b>Jun 2022 - Jan 2023 </b> </td>
    </tr>
    <tr>
       <td> <b>Freelance web developer</b> </td>
