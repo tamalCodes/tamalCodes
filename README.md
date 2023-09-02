@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I'm a **fullstack Web Developer, Freelancer & budding Software engineer** <br> I'm in love with Opensource, Communties and also am building an **[Opensource project](https://milanhub.org)**. I am up for freelancing projects, mentoring sessions, workshops, DevRel & Software Engineering roles.
+I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, and Communities, and also building an **[Opensource project](https://milanhub.org)**. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
 
 <p align="center"><a href="https://tamaldas.com"><img src="https://github.com/IAmTamal/IAmTamal/blob/442bc80ee87d7f2fb6b0440f4fbf679071e11d7e/pics/tamaldev2.png"></a></p>
 
