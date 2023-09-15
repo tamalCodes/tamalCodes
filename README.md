@@ -35,7 +35,7 @@ Don't use useEffect for every damn state update!It'll slow your app down and cau
 <br/>
 
 
- <h2 align="center" id = "work-experience">🚀 Professional Experience </h2> 
+## Professional Experience
 
 <table>
   <thead align="center">
@@ -47,49 +47,34 @@ Don't use useEffect for every damn state update!It'll slow your app down and cau
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Tech Lead</b> </td>
-      <td><a href="https://www.irlamigo.com/"/><b>IRL Amigo</b></a></td>
-      <td> <b>Dec 2022 - Present </b> </td>
-   </tr>
-    <tr>
-      <td> <b> Lead web developer</b> </td>
-      <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
-      <td> <b>Oct 2022 - March 2023 </b> </td>
+      <td> <b> Product Engineer Intern</b> </td>
+      <td><a href="https://www.linkedin.com/company/workduck-official/"/><b>WorkDuck</b></a></td>
+      <td> <b>Jun 2023 - Aug 2023</b> </td>
    </tr>
    <tr>
-      <td> <b> Freelance web developer </b> </td>
+      <td> <b>Freelance Software Engineer</b> </td>
       <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
       <td> <b>Jan 2023 - March 2023</b> </td>
    </tr>
    <tr>
-      <td> <b>Developer Relations</b> </td>
-      <td><a href="https://twitter.com/CodeinCommunity"/><b>CodeIN Community</b></a></td>
-      <td> <b>Jun 2022 - Jan 2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b>Freelance web developer</b> </td>
+      <td> <b>Web developer</b> </td>
       <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
       <td> <b>Nov 2022 - Jan 2023</b> </td>
-   </tr>    
+   </tr>       
    <tr>
-      <td> <b>Freelance web developer</b> </td>
-      <td><a href="https://techmartme.com/"/><b>TechMart</b></a></td>
-      <td> <b>Nov 2022</b> </td>
-   </tr>    
-   <tr>
-      <td> <b>Frontend Web Developer</b> </td>
-      <td><a href="https://www.linkedin.com/company/waystomakemoney/"/><b>Ways to Make Money</b></a></td>
+      <td> <b>Web Developer</b> </td>
+      <td><a href="https://www.linkedin.com/company/irl-amigo/"/><b>IRL Amigo</b></a></td>
       <td> <b>Apr 2022 - Sep 2022</b> </td>
    </tr>    
    <tr>
-      <td> <b>Software Development Engineer Intern</b> </td>
-      <td><a href="https://www.linkedin.com/company/innception/"/><b>InnceptionIO</b></a></td>
-      <td> <b>Nov 2021 - Apr 2022</b> </td>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://www.linkedin.com/company/waystomakemoney"/><b>Ways to Make Money</b></a></td>
+      <td> <b>Apr 2022 - Sept 2022</b> </td>
    </tr>    
    <tr>
-      <td> <b>Fullstack Web Developer </b> </td>
-      <td><a href="https://www.linkedin.com/company/uem-kolkata-acm/"/><b>UEM Kolkata ACM Student Chapter</b></a></td>
-      <td> <b>March 2021 - October 2021</b> </td>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://www.linkedin.com/company/innception/"/><b>Innception</b></a></td>
+      <td> <b>Nov 2021 - Jan 2022</b> </td>
    </tr>    
    
 
@@ -99,12 +84,13 @@ Don't use useEffect for every damn state update!It'll slow your app down and cau
 <br/>
 <br/>
 
- <h2 align="center" id = "work-experience">🎉 Community, Opensource & Achievements </h2> 
+## Community, Opensource & Achievements
+
  <li><a href="https://www.hack4bengal.tech/" /> Fullstack web developer for Hack4Bengal, building the amazing hackathon's sucess story. </a></li>
  
    <li><a href="https://ureckon.uem.edu.in/" /> Lead Dev, Ureckathon'23 - Making the hackathon sucessful. </a></li>
    
-  <li><a href="https://ureckon.uem.edu.in/" /> Web Development lead, Ureckon, UEM Kolkata - Leading the tech team for a sucessful fest </a></li>
+  <li><a href="https://ureckon.uem.edu.in/" /> Web Development lead, Ureckon, UEM Kolkata - Leading the tech team for a successful fest </a></li>
 
   <li><a href="https://drive.google.com/file/d/1UQT4dz6mpcliq0Ea3yhP89yXYI7JbHdM/view?usp=share_link" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022) </a></li>
 
