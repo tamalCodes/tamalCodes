@@ -12,29 +12,6 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
   
 </div>
 
-## My Latest Blog Posts 👇
-
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://tamal-writes.hashnode.dev//discovering-opensource-projects" title="Discovering OpenSource Projects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682062691478/00d32a40-8374-4e90-8532-637d1bc8a8e3.png" alt="Discovering OpenSource Projects" width="250px" align="left" /></a>
-<a href="https://tamal-writes.hashnode.dev//discovering-opensource-projects" title="Discovering OpenSource Projects"><strong>Discovering OpenSource Projects</strong></a>
-<br/> TL;DR: By the end of this blog, you'll have mastered how to find and contribute to Opensource projects of your choice, be it code or non-code contributions.
-A brief about Opensource
-OpenSource project is like a big puzzle that lots of people can work... </p> <br/> <br/>
-<p align="left">
-<a href="https://tamal-writes.hashnode.dev//forget-useeffect" title="Don't fetch data with useEffect, use this instead 👇"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680462082223/bcb9e8b9-5682-4f4f-b38a-85da8ba565ab.png" alt="Don't fetch data with useEffect, use this instead 👇" width="250px" align="left" /></a>
-<a href="https://tamal-writes.hashnode.dev//forget-useeffect" title="Don't fetch data with useEffect, use this instead 👇"><strong>Don't fetch data with useEffect, use this instead 👇</strong></a>
-<br/> Why I gave up on useEffect ?
-Don't use useEffect for every damn state update!It'll slow your app down and cause unnecessary re-renders. And if you forget to clean up after yourself or you'll end up with memory leaks that'll ruin your app's performanc... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
-<p align="center"><a href="https://tamal-writes.hashnode.dev/"><img src="https://raw.githubusercontent.com/IAmTamal/IAmTamal/main/pics/blogbanner.png"></a></p>
-
-
-
-<br/>
-
-
 ## Professional Experience
 
 <table>
