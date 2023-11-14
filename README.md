@@ -1,8 +1,8 @@
-![GitHub Banner](https://user-images.githubusercontent.com/72851613/235852113-122da6f7-a49d-4048-aaa3-b3638856c95a.png)
+![GitHub Banner](https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Frame%204.png)
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, and Communities, and also building an **[Opensource project](https://milanhub.org)**. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
 
