@@ -1,4 +1,4 @@
-### Hi, Tamal here 👋
+# Hi, Tamal here 👋
 
 I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, Web, and Communities, and also building an **[Opensource project for NGOs](https://milanhub.org)** with 200+ contributors. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
 
