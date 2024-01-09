@@ -1,16 +1,14 @@
-![GitHub Banner](https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Frame%204.png)
+![GitHub Banner](https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Twitter%20Banner%20(1).png)
 
 <br/>
 
-<div align="left">
+### Hi, Tamal here 👋
 
-I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, and Communities, and also building an **[Opensource project](https://milanhub.org)**. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
+I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, Web, and Communities, and also building an **[Opensource project for NGOs](https://milanhub.org)** with 200+ contributors. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
 
-<p align="center"><a href="https://tamaldas.com"><img src="https://github.com/IAmTamal/IAmTamal/blob/442bc80ee87d7f2fb6b0440f4fbf679071e11d7e/pics/tamaldev2.png"></a></p>
+<p align="left"><a href="https://tamaldas.com"><img src="https://github.com/IAmTamal/IAmTamal/blob/442bc80ee87d7f2fb6b0440f4fbf679071e11d7e/pics/tamaldev2.png"></a></p>
 
-<br>  
-  
-</div>
+<br/>
 
 ## Professional Experience
 
@@ -58,7 +56,6 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
    </tbody>	 
 </table>
 
-<br/>
 <br/>
 
 ## Community, Opensource & Achievements
