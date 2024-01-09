@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Twitter%20Banner%20(1).png)
+![GitHub Banner](https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/GitHub%20Banner.png)
 
 <br/>
 
@@ -6,7 +6,7 @@
 
 I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, Web, and Communities, and also building an **[Opensource project for NGOs](https://milanhub.org)** with 200+ contributors. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
 
-<p align="left"><a href="https://tamaldas.com"><img src="https://github.com/IAmTamal/IAmTamal/blob/442bc80ee87d7f2fb6b0440f4fbf679071e11d7e/pics/tamaldev2.png"></a></p>
+<p align="left"><a href="https://tamaldas.com"><img src="https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Button.png"></a></p>
 
 <br/>
 
