@@ -2,7 +2,7 @@
 
 I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm in love with Opensource, Web, and Communities, and also building an **[Opensource project for NGOs](https://milanhub.org)** with 200+ contributors. I am up for freelancing projects, mentoring sessions, workshops, DevRel, and software engineering roles.
 
-<p align="left"><a href="https://tamaldas.com"><img src="https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Button.png"></a></p>
+<p align="left"><a href="https://tamal.codes"><img src="https://raw.githubusercontent.com/tamalCodes/tamalCodes/main/Button.png"></a></p>
 
 <br/>
 
@@ -18,9 +18,14 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Product Engineer Intern</b> </td>
+      <td> <b> Frontend Engineer</b> </td>
+      <td><a href="https://www.linkedin.com/company/ediliticsdata/"/><b>Edilitics</b></a></td>
+      <td> <b>Jan 2024 - Present</b> </td>
+   </tr>
+    <tr>
+      <td> <b> Product Engineer</b> </td>
       <td><a href="https://www.linkedin.com/company/workduck-official/"/><b>WorkDuck</b></a></td>
-      <td> <b>Jun 2023 - Aug 2023</b> </td>
+      <td> <b>Jun 2023 - Oct 2023</b> </td>
    </tr>
    <tr>
       <td> <b>Freelance Software Engineer</b> </td>
@@ -38,12 +43,12 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
       <td> <b>Apr 2022 - Sep 2022</b> </td>
    </tr>    
    <tr>
-      <td> <b>Software Engineer Intern</b> </td>
+      <td> <b>Freelance Software Engineer</b> </td>
       <td><a href="https://www.linkedin.com/company/waystomakemoney"/><b>Ways to Make Money</b></a></td>
       <td> <b>Apr 2022 - Sept 2022</b> </td>
    </tr>    
    <tr>
-      <td> <b>Software Engineer Intern</b> </td>
+      <td> <b>Freelance Software Engineer</b> </td>
       <td><a href="https://www.linkedin.com/company/innception/"/><b>Innception</b></a></td>
       <td> <b>Nov 2021 - Jan 2022</b> </td>
    </tr>    
