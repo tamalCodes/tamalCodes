@@ -28,9 +28,9 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
       <td> <b>Jun 2023 - Oct 2023</b> </td>
    </tr>
    <tr>
-      <td> <b>Freelance Software Engineer</b> </td>
+      <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
-      <td> <b>Jan 2023 - March 2023</b> </td>
+      <td> <b>Nov 2022 - Apr 2023</b> </td>
    </tr>
    <tr>
       <td> <b>Web developer</b> </td>
@@ -40,10 +40,10 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
    <tr>
       <td> <b>Web Developer</b> </td>
       <td><a href="https://www.linkedin.com/company/irl-amigo/"/><b>IRL Amigo</b></a></td>
-      <td> <b>Apr 2022 - Sep 2022</b> </td>
+      <td> <b>Oct 2022 - Jan 2023</b> </td>
    </tr>    
    <tr>
-      <td> <b>Freelance Software Engineer</b> </td>
+      <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://www.linkedin.com/company/waystomakemoney"/><b>Ways to Make Money</b></a></td>
       <td> <b>Apr 2022 - Sept 2022</b> </td>
    </tr>    
