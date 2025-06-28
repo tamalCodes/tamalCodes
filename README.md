@@ -16,11 +16,11 @@ I'm a **full-stack Web Developer, Freelancer & budding Software engineer**. I'm 
       <td><b> ⏰Timeline  </b></td> 
       </tr>
   </thead>
-  <tbody> 
+  <tbody>
     <tr>
       <td> <b> Frontend Engineer</b> </td>
       <td><a href="https://www.linkedin.com/company/ediliticsdata/"/><b>Edilitics</b></a></td>
-      <td> <b>Jan 2024 - Present</b> </td>
+      <td> <b>Jan 2024 - Mar 2025</b> </td>
    </tr>
     <tr>
       <td> <b> Product Engineer</b> </td>
